@@ -1,7 +1,7 @@
 # SuProtection
 
 <p align="center">
-    <img width="500" src="https://github.com/inightsword/SuProtection/blob/main/Assets/logo.png" />
+    <img width="500" src="https://github.com/inightsword/SuProtection/blob/main/SuPassword/app_store_icon.png" />
 </p>
 
 <br />
